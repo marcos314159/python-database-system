@@ -811,7 +811,7 @@
       "weight": "500g",
       "dimensions": "20 x 5 x 5 cm",
       "brand": "Loreal",
-      "color": NaN,
+      "color": null,
       "stock": 40,
       "sales": 18,
       "active": true
@@ -825,7 +825,7 @@
       "weight": "500g",
       "dimensions": "20 x 5 x 5 cm",
       "brand": "Pantene",
-      "color": NaN,
+      "color": null,
       "stock": 35,
       "sales": 15,
       "active": true
@@ -839,7 +839,7 @@
       "weight": "200g",
       "dimensions": "8 x 8 x 6 cm",
       "brand": "Nivea",
-      "color": NaN,
+      "color": null,
       "stock": 20,
       "sales": 9,
       "active": true
@@ -853,7 +853,7 @@
       "weight": "150g",
       "dimensions": "10 x 5 x 5 cm",
       "brand": "Dior",
-      "color": NaN,
+      "color": null,
       "stock": 10,
       "sales": 4,
       "active": true
@@ -867,7 +867,7 @@
       "weight": "120g",
       "dimensions": "18 x 4 x 3 cm",
       "brand": "Colgate",
-      "color": NaN,
+      "color": null,
       "stock": 60,
       "sales": 25,
       "active": true
@@ -881,7 +881,7 @@
       "weight": "300g",
       "dimensions": "12 x 6 x 6 cm",
       "brand": "Centrum",
-      "color": NaN,
+      "color": null,
       "stock": 25,
       "sales": 10,
       "active": true
@@ -895,7 +895,7 @@
       "weight": "1000g",
       "dimensions": "25 x 15 x 15 cm",
       "brand": "Optimum",
-      "color": NaN,
+      "color": null,
       "stock": 15,
       "sales": 7,
       "active": true
@@ -1021,7 +1021,7 @@
       "weight": "900g",
       "dimensions": "30 x 30 x 8 cm",
       "brand": "Hasbro",
-      "color": NaN,
+      "color": null,
       "stock": 15,
       "sales": 6,
       "active": true
@@ -1035,7 +1035,7 @@
       "weight": "500g",
       "dimensions": "25 x 20 x 5 cm",
       "brand": "Ravensburger",
-      "color": NaN,
+      "color": null,
       "stock": 20,
       "sales": 8,
       "active": true
@@ -1063,7 +1063,7 @@
       "weight": "400g",
       "dimensions": "30 x 10 x 8 cm",
       "brand": "Mattel",
-      "color": NaN,
+      "color": null,
       "stock": 25,
       "sales": 10,
       "active": true
@@ -1077,7 +1077,7 @@
       "weight": "1500g",
       "dimensions": "35 x 25 x 15 cm",
       "brand": "Lego",
-      "color": NaN,
+      "color": null,
       "stock": 12,
       "sales": 5,
       "active": true

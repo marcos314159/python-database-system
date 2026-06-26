@@ -9,7 +9,7 @@ The system supports:
 - Viewing data
 - Inserting new records
 - Updating existing records
-- Performing custom data analysis using Pandas
+- Pandas for flexible data manipulation and analysis.
 
 ## Project Structure
 

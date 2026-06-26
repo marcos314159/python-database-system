@@ -1,4 +1,4 @@
-from project import split_data, check_for_duplicates, instances_to_dict
+from database_manager import split_data, check_for_duplicates, instances_to_dict
 from project_classes import Client, Product
 from contextlib import redirect_stdout
 import io
@@ -90,10 +90,11 @@ def test_instances_to_dict():
         brand="c",
         stock=1
     )
-
     result = instances_to_dict()
 
+    assert result is not None
     assert "Clients" in result
     assert "Products" in result
+
     assert result["Clients"][0]["email"] == "abc@gmail.com"
     assert result["Products"][0]["name"] == "a"

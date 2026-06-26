@@ -1,15 +1,26 @@
 # Data Management System with Pandas and JSON
 
+![Data Visualization](images/plotly-table.png)
+
 #### Video Demo: <https://youtu.be/_xB7TPexVXw>
 #### Description:
 
 This project is a command-line based data management system developed in Python as a final project for CS50P. It allows users to manage and analyze structured data related to clients and products using a combination of JSON storage, object-oriented programming, and Pandas for data manipulation.
 
 The system supports:
-- Viewing data
+- Viewing client and product data
 - Inserting new records
 - Updating existing records
-- Pandas for flexible data manipulation and analysis.
+- Data visualization using Plotly tables
+- Flexible data manipulation and analysis with Pandas
+
+It also includes data validation, duplicate detection, JSON persistence, and automated tests with pytest.
+
+## Screenshots
+
+### Terminal Interface
+
+![Terminal Interface](images/terminal.png)
 
 ## Project Structure
 
